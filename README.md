@@ -1,14 +1,15 @@
-##Run
-###Mac/Linux
+## Run
+### Mac/Linux
+
 ```bash
 ./mvnw spring-boot:run
 ```
-###Windows
+### Windows
 ```bash
 mvnw spring-boot:run
 ```
 
-##SOAP Endpoint
+## SOAP Endpoint
 ```bash
 curl --location --request POST 'http://localhost:8080/tempconvert' \
 --header 'Content-Type: application/soap+xml; charset=utf-8' \
@@ -22,7 +23,7 @@ curl --location --request POST 'http://localhost:8080/tempconvert' \
 </soap12:Envelope>
 ```
 
-##REST Endpoint
+## REST Endpoint
 ```bash
 curl http://localhost:8080/helloworld
 ```
