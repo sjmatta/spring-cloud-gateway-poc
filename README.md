@@ -20,7 +20,7 @@ curl --location --request POST 'http://localhost:8080/tempconvert' \
       <Celsius>20</Celsius>
     </CelsiusToFahrenheit>
   </soap12:Body>
-</soap12:Envelope>
+</soap12:Envelope>'
 ```
 
 ## REST Endpoint
