@@ -2,7 +2,7 @@ repo_name: sjmatta/spring-cloud-gateway-poc
 report_id: aa9dabd4205775892cd76fdcbb8128d9
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-11T12:22:48+00:00'
+timestamp: '2024-02-29T18:08:41+00:00'
 requested_by: renovate[bot]
 provider: github
 branch: main
