@@ -5,8 +5,8 @@ sjmatta/spring-cloud-gateway-poc is built on the following main stack:
 
 - [Java](https://www.java.com) – Languages
 - [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -18,8 +18,8 @@ sjmatta/spring-cloud-gateway-poc is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sjmatta/spring-cloud-gateway-poc](https://github.com/sjmatta/spring-cloud-gateway-poc)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/11/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
