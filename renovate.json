@@ -1,5 +1,15 @@
 {
   "extends": [
-    "config:base"
+    "config:recommended"
+  ],
+  "packageRules": [
+      {
+          "groupName": "Spring Boot and Spring Cloud",
+          "matchPackagePrefixes": [
+              "org.springframework.cloud:",
+              "org.springframework.boot:"
+          ],
+          "separateMajorMinor": false
+      }
   ]
 }
