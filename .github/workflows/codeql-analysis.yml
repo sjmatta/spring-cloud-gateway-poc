@@ -39,7 +39,7 @@ jobs:
         steps:
             -   uses: actions/setup-java@v4
                 with:
-                    distribution: 'temurin'
+                    distribution: 'corretto'
                     java-version: '21'
 
             -   name: Checkout repository
